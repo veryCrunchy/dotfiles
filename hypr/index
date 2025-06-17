@@ -1,0 +1,2 @@
+$P = ~/.config/hypr
+source = $P/binds/index

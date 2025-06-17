@@ -1,0 +1,15 @@
+$mainMod = SUPER
+$P = ~/.config/hypr/binds
+source = $P/apps.conf
+source = $P/window_management.conf
+source = $P/window_navigation.conf
+source = $P/window_movement.conf
+source = $P/window_resizing.conf
+source = $P/workspace.conf
+source = $P/workspace_move.conf
+source = $P/mouse.conf
+source = $P/multimedia.conf
+source = $P/submap_resize.conf
+source = $P/submap_vim.conf
+# source = $P/review.conf
+
