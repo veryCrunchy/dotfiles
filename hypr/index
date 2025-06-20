@@ -1,2 +1,3 @@
 $P = ~/.config/hypr
+source = $P/exec.conf
 source = $P/binds/index
